@@ -14,10 +14,10 @@ header {
     padding: 1rem;
 }
 
-h1 {
-    font-size: 3rem;
-    color: #4da313;
+.logoSW {
+    width: 20%;
 }
+
 
 ul {
     display: flex;

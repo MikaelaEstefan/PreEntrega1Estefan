@@ -11,17 +11,17 @@ const NavBar = () => {
         <nav>
                 <ul>
                     <li>
-                        <NavLink to={"/categoria/2"}> Lightsabers </NavLink>
+                        <NavLink to={"/categoria/1"}> Lightsabers </NavLink>
                     </li>
 
                     <li>
-                        <NavLink to={"/categoria/3"}> Action Figures </NavLink>
+                        <NavLink to={"/categoria/2"}> Action Figures </NavLink>
                     </li>
                     <li>
                         <NavLink to={"/categoria/3"}> Collectibles </NavLink>
                     </li>
                     <li>
-                        <NavLink to={"/categoria/3"}> Books and Comics </NavLink>
+                        <NavLink to={"/categoria/4"}> Books and Comics </NavLink>
                     </li>
                 </ul>
         </nav>
